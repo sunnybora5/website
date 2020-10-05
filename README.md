@@ -64,9 +64,6 @@ To add a post to the community blog use:
 
 After getting it how you want, you can build the static site by running:
 
-> *NOTE*: On CentOS / RHEL 7 you will be presented with a warning that
-> ImageMagick is less than the recommended 6.8.0.
-
 `bundle exec middleman build`
 
 
